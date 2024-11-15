@@ -1,0 +1,8 @@
+project_id: "732673"
+api_token: "92a420507ff257d3e7e1266fa6b1fd8322857980d99b6ba3dd7255390a9a5312537fa1b23e5e712a"
+base_path: "."
+base_url: "https://api.crowdin.com"
+
+files:
+  - source: "jackietest.txt"
+    translation: "jackie_uk_test/%locale%/jackietest.txt"
